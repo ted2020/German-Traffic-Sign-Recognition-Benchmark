@@ -11,3 +11,5 @@
  ##### neural network model building and training
  ##### accuracy plotting
  ##### save the model
+ 
+ ##### 92.5% accuracy is achieved
